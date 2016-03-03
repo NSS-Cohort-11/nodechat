@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sscotth/nodechat#readme",
   "devDependencies": {
+    "bower": "^1.7.7",
     "nodemon": "^1.9.1"
   },
   "dependencies": {
